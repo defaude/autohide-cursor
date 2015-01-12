@@ -1,0 +1,3 @@
+code:
+  src: 'src/autohide-cursor.js'
+  dest: 'dist/autohide-cursor.js'

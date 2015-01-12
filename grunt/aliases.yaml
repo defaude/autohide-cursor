@@ -1,0 +1,16 @@
+default:
+- build
+
+dev:
+- build
+- serve
+
+build:
+- clean
+- jshint
+- copy
+- uglify
+
+serve:
+- connect
+- watch

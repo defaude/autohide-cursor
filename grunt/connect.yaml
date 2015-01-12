@@ -1,0 +1,5 @@
+code:
+  options:
+    base: src
+    livereload: true
+    open: 'http://localhost:8000/example.html'
