@@ -11,7 +11,7 @@
     "email": "git@defaude.info",
     "url": "https://github.com/defaude"
   },
-  "license": "public domain",
+  "license": "WTFPL",
   "bugs": {
     "url": "https://github.com/defaude/autohide-cursor/issues"
   },
