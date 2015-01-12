@@ -1,6 +1,6 @@
 {
   "name": "autohide-cursor",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Tiny no-dependency library that will automatically hide the cursor after a given time of mouse inactivity.",
   "repository": {
     "type": "git",
