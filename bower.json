@@ -1,7 +1,7 @@
 {
   "name": "autohide-cursor",
   "description": "Tiny no-dependency library that will automatically hide the cursor after a given time of mouse inactivity.",
-  "version": "",
+  "version": "0.0.1",
   "main": "src/autohide-cursor.js",
   "license": "WTFPL",
   "ignore": [
