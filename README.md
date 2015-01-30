@@ -1,3 +1,6 @@
+![Dependencies powered by David](https://david-dm.org/defaude/autohide-cursor.svg)
+___
+
 # autohide-cursor
 Tiny no-dependency library that will automatically hide the cursor after a given time of mouse inactivity.
 
