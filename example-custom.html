@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
     <head lang="en">
         <meta charset="UTF-8">
         <title>autohide-cursor</title>
@@ -8,6 +8,7 @@
                 background-color: #223;
                 font-family: sans-serif;
             }
+
             #box {
                 background-color: #eef;
                 margin: 3em auto;
@@ -16,7 +17,12 @@
                 max-width: 75%;
             }
         </style>
-        <script src="autohide-cursor.js" data-autohide-delay="800"></script>
+        <script type="module">
+            import {autohideCursor} from "./autohide-cursor.js";
+
+            // this allows us to call the autohideCursor function with a custom delay
+            autohideCursor(500);
+        </script>
     </head>
     <body>
         <div id="box">

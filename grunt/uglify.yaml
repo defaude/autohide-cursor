@@ -1,5 +1,0 @@
-code:
-  options:
-    sourceMap: true
-  files:
-    'dist/autohide-cursor.min.js': 'dist/autohide-cursor.js'

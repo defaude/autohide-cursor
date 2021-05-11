@@ -1,6 +1,0 @@
-options:
-  force: true
-  jshintrc: true
-
-code:
-  src: 'src/autohide-cursor.js'
