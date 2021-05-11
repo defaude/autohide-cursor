@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/defaude/autohide-cursor/issues"
   },
-  "homepage": "https://github.com/defaude/autohide-cursor#readme"
+  "homepage": "https://github.com/defaude/autohide-cursor#readme",
+  "publishConfig": {
+    "access": "public"
+  }
 }
