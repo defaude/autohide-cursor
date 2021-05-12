@@ -19,5 +19,6 @@
   "homepage": "https://github.com/defaude/autohide-cursor#readme",
   "publishConfig": {
     "access": "public"
-  }
+  },
+  "types": "types.d.ts"
 }
