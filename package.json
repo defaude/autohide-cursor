@@ -2,21 +2,14 @@
   "name": "@defaude/autohide-cursor",
   "version": "1.0.2",
   "description": "Tiny no-dependency library that will automatically hide the cursor after a given time of mouse inactivity.",
+  "license": "WTFPL",
   "main": "autohide-cursor.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/defaude/autohide-cursor.git"
-  },
+  "repository": "defaude/autohide-cursor",
   "author": {
     "name": "Roland Hummel",
     "email": "git@defaude.info",
     "url": "https://github.com/defaude"
   },
-  "license": "WTFPL",
-  "bugs": {
-    "url": "https://github.com/defaude/autohide-cursor/issues"
-  },
-  "homepage": "https://github.com/defaude/autohide-cursor#readme",
   "publishConfig": {
     "access": "public"
   },
